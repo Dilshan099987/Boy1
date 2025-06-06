@@ -26,7 +26,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 > ©Powerd By DILSHAN MD`;
 
         // Send the status message with an image
-        await conn.sendMessage(from, { 
+        await conn.sendMessage(from, { https://whatsapp.com/channel/0029Vb691MgG8l5GHg8HgI3b
             image: { url: `https://files.catbox.moe/uod3xi.jpg` },  // Image URL
             caption: status,
             contextInfo: {
